@@ -36,7 +36,7 @@ hero_media = "logo_A.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta_alt]
+[cta]
   url = "https://www.facebook.com/stats.coaching/"
   label = "FACEBOOK"
 +++
