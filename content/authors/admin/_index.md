@@ -1,49 +1,51 @@
 ---
 authors:
 - admin
-bio: Mis intereses de investigación incluyen minería de datos, machine learning y programación en R
-  matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+bio: Ingeniero en Estadística Informática, programador en R, analista de datos mediante técnicas de Machine Learning.
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 email: "alexanderandrade_ec@outlook.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Estadística
+- Inteligencia Artificial
+- Machine learning
+- Programación en R
 name: Alexander Andrade
 organizations:
 - name: Estadística para No Estadísticos
   url: ""
-role: Asesor Estadísticos
+role: Asesor Estadístico
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/alexanderand_ec
+- icon: "facebook"
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.facebook.com/stats.coaching/
+- icon: "whatsapp"
+  icon_pack: fab
+  link: https://api.whatsapp.com/send?phone=593987893785
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Alexander Andrade es un ingeniero en estadística informática, sus intereses de investigación incluyen: minería de datos, machine learning y programación en R. Alexander es el fundador de Estadística para No Estadísticos.
+Alexander Andrade es un Ingeniero en Estadística Informática, con instrucción en Machine Learning y Programación Estadística en R. Alexander es el Fundador y Editor en Jefe de **Estadística para No Estadísticos**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 

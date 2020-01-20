@@ -36,9 +36,21 @@ hero_media = "logo_A.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
+  
 [cta]
+   url = "https://api.whatsapp.com/send?phone=593987893785"
+   label = "Escríbenos por Whatsapp"
+   icon_pack = "fab"
+   icon = "whatsapp"
+
+[cta_alt]
   url = "https://www.facebook.com/stats.coaching/"
-  label = "FACEBOOK"
+  label = "Encuéntranos en Facebook"
+  icon_pack = "fab"
+  icon = "facebook"
+  
+[cta_note]
+  label = "Sitio web creado mediante programación en <b>R</b>"
 +++
 
 **¡Toma el control de tus Datos!**
@@ -53,4 +65,3 @@ Asesoría y Tutoría Estadística:
 
 **Utiliza técnicas de Inteligencia Artificial y Machine Learning para generar valor en tu Empresa.**
 <br>
-<font size = "3">Este sitio web fue creado mediante programación en <b>R</b></font> 

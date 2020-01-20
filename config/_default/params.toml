@@ -9,10 +9,10 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "my_theme"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -93,11 +93,11 @@ address = {street = "Av. 11 de Noviembre y José de Villamil", city = "Riobamba 
 coordinates = {latitude = "-1.660493", longitude = "-78.673769"}
 
 # Directions for visitors to locate you.
-directions = "A pocos pasos de Cafetería MayMa"
+directions = "A pocos pasos de Cafetería MayMa."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Las reuniones se realizan con previa cita", "Comunicarse mediante nuestro número de contacto"]
+office_hours = ["Las reuniones se realizan con previa cita.", "Comunicarse mediante nuestro número de contacto."]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
