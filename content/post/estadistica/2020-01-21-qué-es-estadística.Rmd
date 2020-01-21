@@ -32,24 +32,9 @@ projects: []
 knitr::opts_chunk$set(echo = F)
 ```
 
-esta deberia ser la que funcione
+![estadistica mujer](/post/estadistica/estadistica.jpg)
 
-![A fancy piechart.](/post/estadistica/estadistica.jpg)
-
-este mo 
-
-
-![No sé que es esto](estadistica.jpg) 
-
-# Historia 
+## Historia 
 
 La Estadística 
 
-
-se supone que esta si es la imagen 
-
-```{r pressure, fig.cap="un encabezado", out.width = '100%'}
-knitr::include_graphics("/estadistica.jpg")
-```
-
-no se si lo sera
