@@ -1,0 +1,55 @@
+---
+title: ¿Qué es estadística?
+author: Alexander Andrade
+date: '2020-01-21'
+slug: qué-es-estadística
+categories:
+  - Estadística
+tags:
+  - estadistica
+  - que
+  - es
+  - queesestadistica
+  - machinelearning
+  - datascience
+  - analisis
+  - estadisticadescriptiva
+  - estadisticainferencial
+  - historiaestadistica
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-01-21T05:56:10-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+```
+
+esta deberia ser la que funcione
+
+![A fancy piechart.](/post/estadistica/estadistica.jpg)
+
+este mo 
+
+
+![No sé que es esto](estadistica.jpg) 
+
+# Historia 
+
+La Estadística 
+
+
+se supone que esta si es la imagen 
+
+```{r pressure, fig.cap="un encabezado", out.width = '100%'}
+knitr::include_graphics("/estadistica.jpg")
+```
+
+no se si lo sera

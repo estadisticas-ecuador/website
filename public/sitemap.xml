@@ -23,17 +23,82 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-01-16T06:15:12-05:00</lastmod>
+    <loc>/tags/analisis/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/1_instalar/da-el-salto-a-r-y-rstudio/</loc>
-    <lastmod>2020-01-16T06:15:12-05:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/datascience/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/es/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/estadistica/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/estadisticadescriptiva/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/estadisticainferencial/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/estadistica/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/historiaestadistica/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machinelearning/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/que/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/queesestadistica/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/estadistica/que-es-estadistica/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/1_instalar/da-el-salto-a-r-y-rstudio/</loc>
     <lastmod>2020-01-16T06:15:12-05:00</lastmod>
   </url>
   
@@ -43,12 +108,12 @@
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2020-01-16T06:15:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>/tags/r/</loc>
     <lastmod>2020-01-16T06:15:12-05:00</lastmod>
   </url>
   
@@ -59,11 +124,6 @@
   
   <url>
     <loc>/tags/rstudio/</loc>
-    <lastmod>2020-01-16T06:15:12-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-01-16T06:15:12-05:00</lastmod>
   </url>
   

@@ -37,6 +37,39 @@
     </item>
     
     <item>
+      <title>¿Qué es estadística?</title>
+      <link>/post/estadistica/que-es-estadistica/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/estadistica/que-es-estadistica/</guid>
+      <description>
+
+
+&lt;p&gt;esta deberia ser la que funcione&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;/post/estadistica/estadistica.jpg&#34; alt=&#34;A fancy piechart.&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;A fancy piechart.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;este mo&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;estadistica.jpg&#34; alt=&#34;No sé que es esto&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;No sé que es esto&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;historia&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Historia&lt;/h1&gt;
+&lt;p&gt;La Estadística&lt;/p&gt;
+&lt;p&gt;se supone que esta si es la imagen&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pressure&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/estadistica.jpg&#34; alt=&#34;un encabezado&#34; width=&#34;100%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: un encabezado
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;no se si lo sera&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Da el salto a R y Rstudio</title>
       <link>/post/1_instalar/da-el-salto-a-r-y-rstudio/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
