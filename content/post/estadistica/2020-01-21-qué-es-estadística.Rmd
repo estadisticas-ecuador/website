@@ -21,7 +21,7 @@ summary: ''
 authors: []
 lastmod: '2020-01-21T05:56:10-05:00'
 featured: no
-thumbnail: "/post/estadistica/estadistica.jpg"
+thumbnail: "headers/estadistica.jpg"
 header:
   image: "headers/estadistica.jpg"
   caption: "Créditos de imagen: [**pixabay**](https://pixabay.com/es/)"
@@ -35,8 +35,6 @@ projects: []
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = F)
 ```
-
-<meta name="thumbnail" content="/post/estadistica/estadistica.jpg">
 
 ![](/post/estadistica/estadistica.jpg)
 
