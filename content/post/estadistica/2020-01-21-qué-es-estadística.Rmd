@@ -20,11 +20,11 @@ subtitle: ''
 summary: ''
 authors: []
 lastmod: '2020-01-21T05:56:10-05:00'
-featured: yes
+featured: no
+thumbnail: "img/boards.jpg"
 header:
   image: "headers/estadistica.jpg"
   caption: "Créditos de imagen: [**pixabay**](https://pixabay.com/es/)"
-featuredImage: "img/boards.jpg"
 # image: 
 #   caption: ''
 #   focal_point: ''
