@@ -20,12 +20,11 @@ subtitle: ''
 summary: ''
 authors: []
 lastmod: '2020-01-21T05:56:10-05:00'
-featured: no
-thumbnail: "headers/estadistica.jpg"
+featured: yes
 header:
   image: "headers/estadistica.jpg"
   caption: "Créditos de imagen: [**pixabay**](https://pixabay.com/es/)"
-featuredImage: "/post/estadistica/estadistica.jpg"
+featuredImage: "img/boards.jpg"
 # image: 
 #   caption: ''
 #   focal_point: ''
@@ -42,5 +41,4 @@ knitr::opts_chunk$set(echo = F)
 ## Historia 
 
 La Estadística 
-
 
