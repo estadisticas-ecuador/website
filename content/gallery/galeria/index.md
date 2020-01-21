@@ -7,7 +7,7 @@ weight = 10  # Order that this section will appear.
 
 title = "Tips Estadísticos"
 subtitle = ""
-
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.

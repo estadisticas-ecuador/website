@@ -37,6 +37,9 @@ social:
 - icon: "whatsapp"
   icon_pack: fab
   link: https://api.whatsapp.com/send?phone=593987893785
+- icon: "linkedin"
+  icon_pack: fab
+  link: https://www.linkedin.com/in/alexander-andrade-74148719b/
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
