@@ -32,7 +32,7 @@ projects: []
 knitr::opts_chunk$set(echo = F)
 ```
 
-![estadistica mujer](/post/estadistica/estadistica.jpg)
+![](/post/estadistica/estadistica.jpg)
 
 ## Historia 
 
