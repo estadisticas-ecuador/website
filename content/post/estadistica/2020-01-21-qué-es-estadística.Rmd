@@ -21,10 +21,9 @@ summary: ''
 authors: []
 lastmod: '2020-01-21T05:56:10-05:00'
 featured: no
-thumbnail: "/post/estadistica/estadistica.jpg"
 header:
-  image: "/post/estadistica/estadistica.jpg"
-  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+  image: "headers/estadistica.jpg"
+  caption: "Créditos de imagen: [**pixabay**](https://pixabay.com/es/)"
 # image: 
 #   caption: ''
 #   focal_point: ''
