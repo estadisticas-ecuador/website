@@ -25,7 +25,7 @@ thumbnail: "headers/estadistica.jpg"
 header:
   image: "headers/estadistica.jpg"
   caption: "Créditos de imagen: [**pixabay**](https://pixabay.com/es/)"
-  preview: true
+featuredImage: "/post/estadistica/estadistica.jpg"
 # image: 
 #   caption: ''
 #   focal_point: ''
@@ -42,4 +42,5 @@ knitr::opts_chunk$set(echo = F)
 ## Historia 
 
 La Estadística 
+
 
