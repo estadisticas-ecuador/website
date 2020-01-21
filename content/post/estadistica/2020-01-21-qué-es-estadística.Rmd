@@ -35,8 +35,6 @@ projects: []
 knitr::opts_chunk$set(echo = F)
 ```
 
-<meta property="og:image" content="/post/estadistica/estadistica.jpg" />
-
 ![](/post/estadistica/estadistica.jpg)
 
 ## Historia 
