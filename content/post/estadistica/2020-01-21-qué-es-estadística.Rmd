@@ -24,7 +24,6 @@ featured: no
 header:
   image: "headers/estadistica.jpg"
   caption: "Créditos de imagen: [**pixabay**](https://pixabay.com/es/)"
-  preview_only: yes
 # image: 
 #   caption: ''
 #   focal_point: ''
@@ -42,3 +41,6 @@ knitr::opts_chunk$set(echo = F)
 
 La Estadística 
 
+```{r img, echo=FALSE}
+knitr::include_graphics("/post/estadistica/estadistica.jpg")
+```
