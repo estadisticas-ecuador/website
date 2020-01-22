@@ -118,7 +118,7 @@ office_hours = ["Las reuniones se realizan con previa cita.", "Comunicarse media
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "headers/bubbles-wide.jpg"
+sharing_image = "new.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "alexanderand_ec"
