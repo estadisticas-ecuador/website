@@ -70,9 +70,13 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   publication_type = "publication_types"
   author = "authors"
 
-# vaas
 [params]
   sidebarBehavior = 1
   thumbnailImage = true
   thumbnailImagePosition = "right"
   autoThumbnailImage = true
+  coverImage = "/post/estadistica/estadistica.jpg"
+  favicon = /favicon.png
+  imageGallery = true
+  hierarchicalCategories = true
+  syntaxHighlighter = 'highlight.js'
