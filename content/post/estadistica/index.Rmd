@@ -28,7 +28,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-share_image: "hero-academic.png"
 projects: []
 ---
 
