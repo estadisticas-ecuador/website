@@ -35,6 +35,8 @@ projects: []
 knitr::opts_chunk$set(echo = F)
 ```
 
+El término *estadística* 
+
 ![](/post/que_es_estadistica/estadistica.jpg)
 
 ## Historia 
