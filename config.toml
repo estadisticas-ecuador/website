@@ -76,7 +76,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   thumbnailImagePosition = "right"
   autoThumbnailImage = true
   coverImage = "/post/estadistica/estadistica.jpg"
-  favicon = /favicon.png
   imageGallery = true
   hierarchicalCategories = true
   syntaxHighlighter = 'highlight.js'
+  
