@@ -35,12 +35,12 @@ projects: []
 knitr::opts_chunk$set(echo = F)
 ```
 
-![](/post/estadistica/estadistica.jpg)
+![](/post/que_es_estadistica/estadistica.jpg)
 
 ## Historia 
 
 La Estadística 
 
 ```{r img, echo=FALSE}
-knitr::include_graphics("/post/estadistica/estadistica.jpg")
+knitr::include_graphics("/post/que_es_estadistica/estadistica.jpg")
 ```
