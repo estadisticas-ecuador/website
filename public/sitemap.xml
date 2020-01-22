@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/analisis/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/datascience/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/es/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/estadistica/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/estadisticadescriptiva/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/estadisticainferencial/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/estadistica/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/historiaestadistica/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machinelearning/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/que/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/queesestadistica/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/que-es-estadistica/</loc>
+    <lastmod>2020-01-21T05:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/gallery/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+  </url>
+  
+</urlset>
