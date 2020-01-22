@@ -24,8 +24,7 @@ featured: no
 header:
   image: "headers/estadistica.jpg"
   caption: "Créditos de imagen: [**pixabay**](https://pixabay.com/es/)"
-thumbnailImage: hero-academic.png
-thumbnailImagePosition: bottom
+thumbnailImage: "headers/estadistica.jpg"
 autoThumbnailImage: yes
 projects: []
 ---
