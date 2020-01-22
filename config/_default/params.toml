@@ -267,15 +267,3 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
-
-
-[params]
-  sidebarBehavior = 1
-  thumbnailImage = true
-  thumbnailImagePosition = "right"
-  autoThumbnailImage = true
-  coverImage = "/post/estadistica/estadistica.jpg"
-  imageGallery = true
-  hierarchicalCategories = true
-  syntaxHighlighter = 'highlight.js'
-  
