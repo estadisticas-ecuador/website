@@ -24,8 +24,10 @@ featured: no
 header:
   image: "headers/estadistica.jpg"
   caption: "Créditos de imagen: [**pixabay**](https://pixabay.com/es/)"
-thumbnailImage: "headers/estadistica.jpg"
-autoThumbnailImage: yes
+image: 
+  caption: ""
+  focal_point: ""
+  preview_only: true
 projects: []
 ---
 
