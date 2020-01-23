@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Ingeniero en Estadística Informática, Programador en R, Analista de datos mediante técnicas de Machine Learning.
+bio: Ingeniero en Estadística Informática, Científico de datos, Analista de información mediante técnicas de Machine Learning, Programador en R, Autodidacta empedernido, Amante de los gatos.
 # education:
 #   courses:
 #   - course: PhD in Artificial Intelligence
