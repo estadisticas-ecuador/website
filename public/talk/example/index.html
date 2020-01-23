@@ -209,6 +209,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156815520-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-156815520-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -740,7 +776,7 @@
     <div class="media-body">
       <h5 class="card-title"><a href="/authors/admin/">Alexander Andrade</a></h5>
       <h6 class="card-subtitle">Asesor Estadístico</h6>
-      <p class="card-text">Ingeniero en Estadística Informática, Científico de datos, Analista de información mediante técnicas de Machine Learning, Programador en R, Autodidacta empedernido, Amante de los gatos.</p>
+      <p class="card-text">Ingeniero en Estadística Informática, Científico de datos, Analista de información mediante técnicas de Machine Learning, Programador en R, Autodidacta, Emprendedor.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
