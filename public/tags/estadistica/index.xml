@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>estadística | Estadística para No Estadísticos</title>
+    <link>/tags/estadistica/</link>
+      <atom:link href="/tags/estadistica/index.xml" rel="self" type="application/rss+xml" />
+    <description>estadística</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-mx</language><lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/new.png</url>
+      <title>estadística</title>
+      <link>/tags/estadistica/</link>
+    </image>
+    
+    <item>
+      <title>¿Qué es Estadística?</title>
+      <link>/post/que-es-estadistica/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/que-es-estadistica/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;img src=&#34;/post/que_es_estadistica/egipto.jpg&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+&lt;p&gt;El término &lt;strong&gt;&lt;em&gt;estadística&lt;/em&gt;&lt;/strong&gt; históricamente se ha visto relacionado con el acto de &lt;em&gt;registrar cantidades&lt;/em&gt;, es decir, cuantificar características importantes de: personas, animales, comida, materiales, etc.&lt;/p&gt;
+&lt;p&gt;Llevar un &lt;em&gt;registro&lt;/em&gt; de lo que se tiene (y lo que no se tiene) ayudó a que las civilizaciones tomen decisiones ventajosas para su comunidad. Los egipcios, de quienes destacaba su cultura de prevención, eran expertos en cuantificar los recursos obtenidos en época de abundancia, lo cual, a su vez, suponía el resguardo de la seguridad de sus habitantes en tiempos de escasez. Así también, varias civilizaciones (Babilonios, Romanos, Chinos, etc) a lo largo de la historia humana, pusieron especial atención en los cambios demográficos, realizando &lt;em&gt;censos&lt;/em&gt; paulatinamente, con la intención de conocer si su población aumentaba o disminuía en número, recordemos que un mayor número de personas se traducía en un mayor número de trabajadores (mano de obra) y soldados (ejército).&lt;/p&gt;
+&lt;p&gt;Las civilizaciones que nos precedieron tenían en claro que &lt;em&gt;el conocimiento es poder&lt;/em&gt; y que &lt;em&gt;tú y tu pueblo son lo que logran medir y cuantificar&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/que_es_estadistica/math.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Posteriormente, la estadística evolucionó gracias a un grupo de matemáticos que, como de costumbre, estaban en una busqueda campal de métodos altamente sofisticados, para resolver problemas bastante comunes. En esta ocasión el problema a resolver era&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
