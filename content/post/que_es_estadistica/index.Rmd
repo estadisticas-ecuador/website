@@ -46,14 +46,3 @@ Las civilizaciones que nos precedieron tenían en claro que *el conocimiento es 
 
 Posteriormente, la estadística evolucionó gracias a un grupo de matemáticos que, como de costumbre, estaban en una busqueda campal de métodos altamente sofisticados, para resolver problemas bastante comunes. En esta ocasión el problema a resolver era 
 
-## Historia 
-
-La Estadística 
-
-```{r img, echo=FALSE}
-knitr::include_graphics("/post/que_es_estadistica/estadistica.jpg")
-```
-
-
-
-sdfsdf
