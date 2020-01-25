@@ -27,7 +27,7 @@
 
 [[buttons]]
   id = "linkedin"
-  url = "https://www.linkedin.com/shareArticle?url={url}"
+  url = "https://www.linkedin.com/shareArticle?mini=true&url={url}"
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
