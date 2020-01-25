@@ -13,6 +13,7 @@ tags:
   - historia de la estadistica
   - estadistica en la actualidad
   - estadistica y probabilidad
+  - estadistica para no estadisticos
 subtitle: ''
 summary: ''
 authors: []
@@ -99,6 +100,9 @@ Con todo lo mencionado, se vuelve evidente la importancia de la estadística y s
 En un mundo globalizado, interconectado, especializado y demandante; la estadística adquiere un lugar indispensable en el ámbito académico - científico y en el sector empresarial - industrial. Por lo tanto, su incorporación en las organizaciones se traduce en una importante ventaja competitiva. 
 
 Si quieres saber cómo sacarle provecho al análisis estadístico, puedes contactarte con nosotros [aquí](https://www.estadisticaparanoestadisticos.com).
+
+*Hasta el siguiente post* `r emo::ji("bar_chart")`  
+*¡Larga vida y prosperidad!* `r emo::ji("vulcan_salute")`  
 
 <br>
 **Próximo post**: ¿Cómo se clasifica la estadística?  
