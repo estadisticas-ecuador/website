@@ -28,6 +28,10 @@ header:
 projects: []
 ---
 
+<style>
+body {text-align: justify}
+</style>
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = F)
 ```
@@ -46,7 +50,7 @@ En el siglo XVII, Edmund Halley (recordado por el cometa Halley) sentó las base
 
 ![](/post/que_es_estadistica/math.jpg)
 
-Posteriormente, la estadística evolucionó gracias a un grupo de matemáticos que, como de costumbre, estaban en una busqueda campal de métodos altamente sofisticados, para resolver problemas bastante comunes. 
+Posteriormente, la estadística evolucionó gracias a un grupo de matemáticos que, como de costumbre, estaban en una busqueda campal de métodos altamente sofisticados, para resolver problemas complejos. 
 
 En esta ocasión, el fenómeno bajo estudio se centraba en los juegos de azar. Así, los matemáticos franceses Pierre de Fermat y Blaise Pascal acuden al llamado y unen esfuerzos mediante un continuo intercambio de correspondencia, logrando formalizar las bases de lo que hoy conocemos como *teoría de la probabilidad*. Dicha teoría jugaría un papel fundamental en la posterior concepción de *estadística inferencial*.
 
@@ -66,7 +70,7 @@ La introducción de la probabilidad al análisis de datos representó un antes y
 - Estadística aplicada a la administración
 - Estadística aplicada a los negocios
 
-Es notable que la estadística destaca gracias a su carácter multidisciplinario, con apliaciones en cualquier ámbito donde sea necesario cuantificar un determinado fenómeno de interés. Pero, ¿qué convierte a la estadística en una herramienta tan valiosa y solicitada en la actualidad?
+Es notable que la estadística destaca gracias a su carácter multidisciplinario, con aplicaciones en cualquier ámbito donde sea necesario cuantificar un determinado fenómeno de interés. Pero, ¿qué convierte a la estadística en una herramienta tan valiosa y solicitada en la actualidad?
 
 ## Definición de estadística
 
@@ -74,14 +78,34 @@ Es notable que la estadística destaca gracias a su carácter multidisciplinario
 knitr::include_graphics("/post/que_es_estadistica/cloud.jpg")
 ```
 
-Existen diferentes concepciones y puntos de vista sobre la definición de estadística, esto se debe principalmente a que, al ser una asignatura polifacética, se crea un concepto distinto en cada área donde es aplicada.
+Existen diferentes concepciones y puntos de vista sobre la definición de estadística. Esto se debe principalmente a que, al ser una asignatura polifacética, se crea un concepto distinto en cada área donde es aplicada.
 
 Con esto en mente, les presento a continuación una definición de estadística, donde se destaca su usabilidad y aplicación en un contexto generalizable:
 
+>
+**Estadística** es la rama de la *matemática* que se encarga de:
+>
+1. recolectar,
+1. almacenar,
+1. analizar,
+1. interpretar y
+1. presentar
+>
+información. Con la intención de fundamentar la toma de decisiones desde un punto de vista objetivo, dejando de lado creencias, sentimientos, intuiciones, o cualquier factor externo que sesgue la realidad.
+<p align="right">--- *Alexander Andrade*</p>
 
+Existe una vasta teoría estadística que se encarga de estudiar por separado, cada una de las cinco etapas que se establecen en esta definición. En *posts* futuros se profundizarán estos conceptos, uno a uno.
 
-La estadística trata sobre nosotros
-Las civilizaciones que nos precedieron tenían en claro que *el conocimiento es poder* y que *tú y tu pueblo son lo que logran medir y cuantificar*. 
+## Conclusión
+
+Con todo lo mencionado, se vuelve evidente la importancia de la estadística y su papel protagónico en el progreso de las civilizaciones. 
+
+En un mundo globalizado, interconectado, especializado y demandante; la estadística adquiere un lugar indispensable en el ámbito académico - científico y en el sector empresarial - industrial. Por lo tanto, su incorporación en las organizaciones se traduce en una importante ventaja competitiva. 
+
+Si quieres saber cómo sacarle provecho al análisis estadístico, puedes contactarte con nosotros [aquí](https://www.estadisticaparanoestadisticos.com).
 
 <br>
-<font size="2">Post creado en **R Markdown**</font>
+**Siguiente post**: ¿Cómo se clasifica la estadística?  
+(*Fecha de publicación*: 2020-02-01)
+
+<p align="right"><font size="3">Post creado en ``R Markdown``</font></p>

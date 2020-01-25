@@ -44,6 +44,9 @@
       <description>
 
 
+&lt;style&gt;
+body {text-align: justify}
+&lt;/style&gt;
 &lt;p&gt;&lt;img src=&#34;/post/que_es_estadistica/egipto.jpg&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
 &lt;p&gt;El término &lt;strong&gt;&lt;em&gt;estadística&lt;/em&gt;&lt;/strong&gt; históricamente se ha visto relacionado con el acto de &lt;em&gt;registrar cantidades&lt;/em&gt;, es decir, cuantificar características importantes de: personas, animales, comida, materiales, etc.&lt;/p&gt;
 &lt;p&gt;Llevar un &lt;em&gt;registro&lt;/em&gt; de lo que se tiene (y lo que no se tiene) ayudó a que las civilizaciones tomen decisiones ventajosas para su comunidad. Los egipcios, de quienes destacaba su cultura de prevención, eran expertos en cuantificar los recursos obtenidos en época de abundancia, lo cual, a su vez, suponía el resguardo de la seguridad de sus habitantes en tiempos de escasez. Así también, varias civilizaciones (Babilonios, Romanos, Chinos, etc) a lo largo de la historia humana, pusieron especial atención en los cambios demográficos, realizando &lt;em&gt;censos&lt;/em&gt; paulatinamente, con la intención de conocer si su población aumentaba o disminuía en número, recordemos que un mayor número de personas se traducía en un mayor número de trabajadores (mano de obra) y soldados (ejército).&lt;/p&gt;
@@ -51,7 +54,7 @@
 &lt;div id=&#34;estadística-y-probabilidad&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Estadística y probabilidad&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;/post/que_es_estadistica/math.jpg&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Posteriormente, la estadística evolucionó gracias a un grupo de matemáticos que, como de costumbre, estaban en una busqueda campal de métodos altamente sofisticados, para resolver problemas bastante comunes.&lt;/p&gt;
+&lt;p&gt;Posteriormente, la estadística evolucionó gracias a un grupo de matemáticos que, como de costumbre, estaban en una busqueda campal de métodos altamente sofisticados, para resolver problemas complejos.&lt;/p&gt;
 &lt;p&gt;En esta ocasión, el fenómeno bajo estudio se centraba en los juegos de azar. Así, los matemáticos franceses Pierre de Fermat y Blaise Pascal acuden al llamado y unen esfuerzos mediante un continuo intercambio de correspondencia, logrando formalizar las bases de lo que hoy conocemos como &lt;em&gt;teoría de la probabilidad&lt;/em&gt;. Dicha teoría jugaría un papel fundamental en la posterior concepción de &lt;em&gt;estadística inferencial&lt;/em&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;estadística-en-la-actualidad&#34; class=&#34;section level2&#34;&gt;
@@ -67,17 +70,40 @@
 &lt;li&gt;Estadística aplicada a la administración&lt;/li&gt;
 &lt;li&gt;Estadística aplicada a los negocios&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Es notable que la estadística destaca gracias a su carácter multidisciplinario, con apliaciones en cualquier ámbito donde sea necesario cuantificar un determinado fenómeno de interés. Pero, ¿qué convierte a la estadística en una herramienta tan valiosa y solicitada en la actualidad?&lt;/p&gt;
+&lt;p&gt;Es notable que la estadística destaca gracias a su carácter multidisciplinario, con aplicaciones en cualquier ámbito donde sea necesario cuantificar un determinado fenómeno de interés. Pero, ¿qué convierte a la estadística en una herramienta tan valiosa y solicitada en la actualidad?&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;definición-de-estadística&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Definición de estadística&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;/post/que_es_estadistica/cloud.jpg&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
-&lt;p&gt;Existen diferentes concepciones y puntos de vista sobre la definición de estadística, esto se debe principalmente a que, al ser una asignatura polifacética, se crea un concepto distinto en cada área donde es aplicada.&lt;/p&gt;
+&lt;p&gt;Existen diferentes concepciones y puntos de vista sobre la definición de estadística. Esto se debe principalmente a que, al ser una asignatura polifacética, se crea un concepto distinto en cada área donde es aplicada.&lt;/p&gt;
 &lt;p&gt;Con esto en mente, les presento a continuación una definición de estadística, donde se destaca su usabilidad y aplicación en un contexto generalizable:&lt;/p&gt;
-&lt;p&gt;La estadística trata sobre nosotros
-Las civilizaciones que nos precedieron tenían en claro que &lt;em&gt;el conocimiento es poder&lt;/em&gt; y que &lt;em&gt;tú y tu pueblo son lo que logran medir y cuantificar&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Estadística&lt;/strong&gt; es la rama de la &lt;em&gt;matemática&lt;/em&gt; que se encarga de:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;recolectar,&lt;/li&gt;
+&lt;li&gt;almacenar,&lt;/li&gt;
+&lt;li&gt;analizar,&lt;/li&gt;
+&lt;li&gt;interpretar y&lt;/li&gt;
+&lt;li&gt;presentar&lt;/li&gt;
+&lt;/ol&gt;
+información. Con la intención de fundamentar la toma de decisiones desde un punto de vista objetivo, dejando de lado creencias, sentimientos, intuiciones, o cualquier factor externo que sesgue la realidad.
+&lt;p align=&#34;right&#34;&gt;
+— &lt;em&gt;Alexander Andrade&lt;/em&gt;
+&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Existe una vasta teoría estadística que se encarga de estudiar por separado, cada una de las cinco etapas que se establecen en esta definición. En &lt;em&gt;posts&lt;/em&gt; futuros se profundizarán estos conceptos, uno a uno.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;conclusión&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Conclusión&lt;/h2&gt;
+&lt;p&gt;Con todo lo mencionado, se vuelve evidente la importancia de la estadística y su papel protagónico en el progreso de las civilizaciones.&lt;/p&gt;
+&lt;p&gt;En un mundo globalizado, interconectado, especializado y demandante; la estadística adquiere un lugar indispensable en el ámbito académico - científico y en el sector empresarial - industrial. Por lo tanto, su incorporación en las organizaciones se traduce en una importante ventaja competitiva.&lt;/p&gt;
+&lt;p&gt;Si quieres saber cómo sacarle provecho al análisis estadístico, puedes contactarte con nosotros &lt;a href=&#34;https://www.estadisticaparanoestadisticos.com&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;
-&lt;font size=&#34;2&#34;&gt;Post creado en &lt;strong&gt;R Markdown&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;strong&gt;Siguiente post&lt;/strong&gt;: ¿Cómo se clasifica la estadística?&lt;br /&gt;
+(&lt;em&gt;Fecha de publicación&lt;/em&gt;: 2020-02-01)&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;
+&lt;font size=&#34;3&#34;&gt;Post creado en &lt;code&gt;R Markdown&lt;/code&gt;&lt;/font&gt;
+&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
