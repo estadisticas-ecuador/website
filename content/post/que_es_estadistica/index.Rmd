@@ -6,11 +6,13 @@ slug: qué-es-estadística
 categories:
   - Estadística
 tags:
-  - estadística
-  - historia
-  - descriptiva
-  - inferencial
-  - probabilidad
+  - estadistica
+  - que es estadistica
+  - que significa estadistica
+  - definicion de estadistica
+  - historia de la estadistica
+  - estadistica en la actualidad
+  - estadistica y probabilidad
 subtitle: ''
 summary: ''
 authors: []
@@ -38,11 +40,48 @@ El término ***estadística*** históricamente se ha visto relacionado con el ac
 
 Llevar un *registro* de lo que se tiene (y lo que no se tiene) ayudó a que las civilizaciones tomen decisiones ventajosas para su comunidad. Los egipcios, de quienes destacaba su cultura de prevención, eran expertos en cuantificar los recursos obtenidos en época de abundancia, lo cual, a su vez, suponía el resguardo de la seguridad de sus habitantes en tiempos de escasez. Así también, varias civilizaciones (Babilonios, Romanos, Chinos, etc) a lo largo de la historia humana, pusieron especial atención en los cambios demográficos, realizando *censos* paulatinamente, con la intención de conocer si su población aumentaba o disminuía en número, recordemos que un mayor número de personas se traducía en un mayor número de trabajadores (mano de obra) y soldados (ejército).
 
-Las civilizaciones que nos precedieron tenían en claro que *el conocimiento es poder* y que *tú y tu pueblo son lo que logran medir y cuantificar*. 
+En el siglo XVII, Edmund Halley (recordado por el cometa Halley) sentó las bases para el análisis demográfico. Él comparó los nacimientos, matrimonios, muertes y densidades poblacionales de Londres y Paris, llegando a la conclusión de que casi la mitad de todos los adultos no procreaban hijos, por lo que las parejas que sobrevivían posteriormente, debían tener al menos cuatro hijos para mantener la densidad poblacional de aquella época.
 
-
+## Estadística y probabilidad
 
 ![](/post/que_es_estadistica/math.jpg)
 
-Posteriormente, la estadística evolucionó gracias a un grupo de matemáticos que, como de costumbre, estaban en una busqueda campal de métodos altamente sofisticados, para resolver problemas bastante comunes. En esta ocasión el problema a resolver era 
+Posteriormente, la estadística evolucionó gracias a un grupo de matemáticos que, como de costumbre, estaban en una busqueda campal de métodos altamente sofisticados, para resolver problemas bastante comunes. 
 
+En esta ocasión, el fenómeno bajo estudio se centraba en los juegos de azar. Así, los matemáticos franceses Pierre de Fermat y Blaise Pascal acuden al llamado y unen esfuerzos mediante un continuo intercambio de correspondencia, logrando formalizar las bases de lo que hoy conocemos como *teoría de la probabilidad*. Dicha teoría jugaría un papel fundamental en la posterior concepción de *estadística inferencial*.
+
+## Estadística en la actualidad
+
+```{r img_3, echo=FALSE}
+knitr::include_graphics("/post/que_es_estadistica/stats.jpg")
+```
+
+La introducción de la probabilidad al análisis de datos representó un antes y un después a la hora de generalizar los resultados estadísticos. Este hecho permitió que la estadística se convierta en el corazón de la investigación científica, diversificando su función hasta convertirse en parte vital de varias áreas de estudio. Por ejemplo: 
+
+- Bioestadística
+- Geoestadística
+- Estadística social
+- Estadística espacial
+- Estadística para las ciencias agropecuarias
+- Estadística aplicada a la administración
+- Estadística aplicada a los negocios
+
+Es notable que la estadística destaca gracias a su carácter multidisciplinario, con apliaciones en cualquier ámbito donde sea necesario cuantificar un determinado fenómeno de interés. Pero, ¿qué convierte a la estadística en una herramienta tan valiosa y solicitada en la actualidad?
+
+## Definición de estadística
+
+```{r img_4, echo=FALSE}
+knitr::include_graphics("/post/que_es_estadistica/cloud.jpg")
+```
+
+Existen diferentes concepciones y puntos de vista sobre la definición de estadística, esto se debe principalmente a que, al ser una asignatura polifacética, se crea un concepto distinto en cada área donde es aplicada.
+
+Con esto en mente, les presento a continuación una definición de estadística, donde se destaca su usabilidad y aplicación en un contexto generalizable:
+
+
+
+La estadística trata sobre nosotros
+Las civilizaciones que nos precedieron tenían en claro que *el conocimiento es poder* y que *tú y tu pueblo son lo que logran medir y cuantificar*. 
+
+<br>
+<font size="2">Post creado en **R Markdown**</font>
