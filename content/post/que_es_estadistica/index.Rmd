@@ -101,7 +101,7 @@ En un mundo globalizado, interconectado, especializado y demandante; la estadís
 Si quieres saber cómo sacarle provecho al análisis estadístico, puedes contactarte con nosotros [aquí](https://www.estadisticaparanoestadisticos.com).
 
 <br>
-**Siguiente post**: ¿Cómo se clasifica la estadística?  
+**Próximo post**: ¿Cómo se clasifica la estadística?  
 (*Fecha de publicación*: 2020-02-01)
 
 <p align="right"><font size="3">Post creado en ``R Markdown``</font></p>
