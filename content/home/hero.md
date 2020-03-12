@@ -59,9 +59,10 @@ hero_media = "logo_A.png"
 
 Asesoría y Tutoría Estadística:
 
-- Data Science para Instituciones y Empresas
+- Data Science para *Instituciones*, *Empresas* y *Profesionales*
 - Trabajos de Titulación (Pregrado y Posgrado)
-- Artículos Científicos (Papers) 
+- Artículos Científicos (Papers)
+- Artículos de Revisión Bibliográfica mediante Minería de Texto
 
 **Utiliza técnicas de Inteligencia Artificial y Machine Learning para generar valor en tu Empresa.**
 <br>
